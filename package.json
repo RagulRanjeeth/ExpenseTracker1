@@ -1,0 +1,12 @@
+{
+  "name": "expensestracker_mern_stack_app-fetchdata",
+  "version": "1.0.0",
+  "description": "In this project, we are going to learn how to make expense tracker application using Mongodb, Express, React and Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
